@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files yes  yes.
 
 修改2
+
+1232
