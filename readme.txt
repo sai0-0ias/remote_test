@@ -6,3 +6,5 @@ Git tracks changes of files yes  yes.
 changes
 
 dev  change
+
+this is featuue1
